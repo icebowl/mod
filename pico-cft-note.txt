@@ -1,0 +1,18 @@
+https://www.hcidata.info/base64.htm
+
+https://picoctf.com/resources
+
+3.15.247.173
+
+Can you find the flag in file? This would be really tedious to look through manually, 
+something tells me there is a better way. You can also find the file in 
+/problems/first-grep_3_2e09f586a51352180a37e25913f5e5d9 on the shell server.
+
+
+/problems/first-grep_3_2e09f586a51352180a37e25913f5e5d9
+
+
+grep picoCTF{
+
+picoCTF{grep_is_good_to_find_things_eda8911c}
+
