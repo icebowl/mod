@@ -1,4 +1,5 @@
 https://www.hcidata.info/base64.htm
+flag l3arn_th3_r0p35
 
 https://picoctf.com/resources
 
@@ -16,3 +17,8 @@ grep picoCTF{
 
 picoCTF{grep_is_good_to_find_things_eda8911c}
 
+gep tutoial:
+https://ryanstutorials.net/linuxtutorial/grep.php
+
+resouorces:
+https://picoctf.com/resources
