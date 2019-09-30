@@ -1,0 +1,12 @@
+nano use_nano.txt
+
+Use:
+ control+shift+c to copy
+ control+shift+v to paste
+
+ control+x to exit and save
+
+^G Get Help   ^O Write Out  ^W Where Is   ^K Cut Text   ^J Justify
+^X Exit       ^R Read File  ^\ Replace    ^U Uncut Text ^T To Spell
+
+
