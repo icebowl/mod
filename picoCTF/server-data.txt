@@ -1,0 +1,42 @@
+Enter your platform password (characters will be hidden): 
+Enter your platform password (characters will be hidden): 
+Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.15.0-1050-aws x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Mon Sep 30 15:49:09 UTC 2019
+
+  System load:  61.43              Processes:           4196
+  Usage of /:   6.8% of 969.35GB   Users logged in:     572
+  Memory usage: 12%                IP address for ens5: 172.31.12.27
+  Swap usage:   0%
+
+  => There are 11 zombie processes.
+
+ * Kata Containers are now fully integrated in Charmed Kubernetes 1.16!
+   Yes, charms take the Krazy out of K8s Kata Kluster Konstruction.
+
+     https://ubuntu.com/kubernetes/docs/release-notes
+
+ * Canonical Livepatch is available for installation.
+   - Reduce system reboots and improve kernel security. Activate at:
+     https://ubuntu.com/livepatch
+
+5 packages can be updated.
+4 updates are security updates.
+
+
+================================================================================
+Shell server instructions:
+
+- This server is *rebooted* and *reformatted* regularly. Please do not expect
+  any data to persist.
+
+- This server should be used *only* for working on our CTF problems. Any other
+  usage is a violation of our rules.
+================================================================================
+
+Last login: Mon Sep 30 12:11:37 2019 from 96.39.195.94
+
