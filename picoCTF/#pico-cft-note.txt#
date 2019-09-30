@@ -3,7 +3,8 @@ flag l3arn_th3_r0p35
 
 https://picoctf.com/resources
 
-3.15.247.173
+2019shell1.picoctf.com
+pi : 3.15.247.173
 
 Can you find the flag in file? This would be really tedious to look through manually, 
 something tells me there is a better way. You can also find the file in 
