@@ -1,0 +1,2 @@
+https://tools.kali.org/information-gathering/nikto
+nikto -Display 1234EP -o report.html -Format htm -Tuning 123bde -host 192.168.0.102
